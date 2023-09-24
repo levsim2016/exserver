@@ -1,1 +1,1 @@
-uvicorn main:app --reload --port=7080
+uvicorn main:app --reload --port=8080
